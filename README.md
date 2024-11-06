@@ -1,10 +1,6 @@
 <h1 align="center">Hello , I'm Nahian Abir.</h1>
 
-###
 
-<h2 align="center">I'm a programmer continuously learning new things in the world of programming.</h2>
-
-###
 
 - 🌱 I’m currently learning **DSA and ML**
 
