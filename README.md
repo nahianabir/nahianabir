@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="45" alt="blender logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="45" alt="godot logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo"  />
 </div>
 
