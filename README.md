@@ -23,7 +23,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="45" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="pycharm logo"  />
 </div>
