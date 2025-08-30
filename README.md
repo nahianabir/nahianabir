@@ -15,8 +15,7 @@
 ![Blender](https://skillicons.dev/icons?i=blender)
 ![Godot](https://skillicons.dev/icons?i=godot)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
-![ROS2](https://img.shields.io/badge/ROS-white?logo=ros&logoColor=black)
-![ROS Humble](https://raw.githubusercontent.com/ros-infrastructure/artwork/master/releases/humble/humble.png)
+![ROS](https://skillicons.dev/icons?i=ros)
 ![ROS Badge](https://img.shields.io/badge/ROS2-humble-blue?logo=ros&logoColor=white)
 
 
