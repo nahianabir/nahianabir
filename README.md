@@ -16,7 +16,7 @@
 ![Godot](https://skillicons.dev/icons?i=godot)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![ROS](https://skillicons.dev/icons?i=ros)
-![ROS Badge]([https://img.shields.io/badge/ROS2-humble-blue?logo=ros&logoColor=white](https://gifyu.com/image/bhUif))
+
 
 
 
