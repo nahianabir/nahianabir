@@ -12,12 +12,11 @@
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Blender](https://skillicons.dev/icons?i=blender)
 ![Godot](https://skillicons.dev/icons?i=godot)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![ROS](https://skillicons.dev/icons?i=ros)
-![ROS Badge](https://img.shields.io/badge/ROS2-humble-blue?logo=ros&logoColor=white)
+![ROS Badge]([https://img.shields.io/badge/ROS2-humble-blue?logo=ros&logoColor=white](https://gifyu.com/image/bhUif))
 
 
 
