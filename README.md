@@ -26,6 +26,6 @@
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alnahianabir-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alnahianabir/)
 
-
+![Trainer Card Pokemon Black](https://s13.gifyu.com/images/bIADY.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
