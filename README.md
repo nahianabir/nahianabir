@@ -16,6 +16,9 @@
 ![Godot](https://skillicons.dev/icons?i=godot)
 ![PyCharm](https://skillicons.dev/icons?i=pycharm)
 ![ROS](https://skillicons.dev/icons?i=ros)
+![PHP](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![obsidian](https://skillicons.dev/icons?i=obsidian)
 
 
 
