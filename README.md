@@ -9,6 +9,7 @@
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
+![Dot Net](https://skillicons.dev/icons?i=dotnet)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
